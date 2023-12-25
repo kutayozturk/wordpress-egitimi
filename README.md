@@ -1,1 +1,2 @@
-# wordpress-egitimi
+# Wordpress Egitimi
+## Devam Ediyor.....
