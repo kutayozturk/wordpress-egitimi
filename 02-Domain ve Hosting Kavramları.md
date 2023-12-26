@@ -26,4 +26,9 @@
 - E-Posta Sunucusu
 - Mail Hosting
 
-https://www.hosting.com.tr/bilgi-bankasi/hosting-nedir/
+**<code style="color : brown">Hosting Firmalarının Sağladığı Hizmetler</code>**
+
+Hosting firmaları web barındırma hizmeti dışında; domain satışı, domain transferi, hazır site satışı,  SSL sertifikası satışı, sunucu bakımı ve optimizasyonu gibi hizmetlerde sunmaktadır.
+
+Satın aldığınız hosting paketinin türüne göre yukarıdaki hizmetlerin bazıları satın aldığınız hizmete dahil olabilir. Sunucu bakımı ve optimizasyonunun dahil olduğu paketlerde ileriye yönelik bir mağduriyet yaşamamak için, bu hizmetin sınırlarının satın alma öncesi net bir şekilde öğrenilmesi gerekir.
+
